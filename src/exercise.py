@@ -1,10 +1,9 @@
 def main():
-    #write your code below this line
-    #This program reads two numbers and prints their sum:
-    a = int(input("Give the first number:"))
-    b = int(input("Give the second number:"))
+    # insert all of your code BELOW this line and ABOVE the if __name__ == '__main__': line ...
+    # make sure your code is tabbed in as part of this "main" function
 
-    print("The sum of the numbers is " + str(a + b))
+
+
 
 if __name__ == '__main__':
     main()
